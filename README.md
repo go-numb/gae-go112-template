@@ -4,7 +4,7 @@ Static Dirを定義し、静的ファイルやHTMLを配信したり、Templates
 
 - Static DirにHUGOやVueなどをいれて、Go APIなどと連携
 - GoやStatic jsからDatastoreやFirestoreなどのGoogle servisesに接続
-- And more
+- And more.
 
 # Usage
 ```
